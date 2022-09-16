@@ -2,7 +2,7 @@
   <img align="center" width="75%" src="https://media0.giphy.com/media/kbRb4eyCNC0aMz5x68/200w.webp?cid=ecf05e47nlzye2v7ezdwi1b30d8b3m40d6le2nvw3wxnlmxb&rid=200w.webp&ct=g" />
 </div>
 <h1 align="center">Hi 👋, I'm Francisco</h1>
-<h3 align="center">Full Stack Software Engineer/ Marine Corps Veteran</h3>
+<h3 align="center">Aspiring Junior Full Stack Software Engineer/ Marine Corps Veteran</h3>
 
 
 <div style="display:flex">
@@ -12,19 +12,19 @@
 </div>
 
 
-- 🔭 I’m currently working on [Marine Transition Success](N/A)
+- 🔭 I’m currently working on [Task Manager](https://fataskmanager.com)
 
 - 🌱 I’m currently learning **iOS development with SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://favilas-portfolio.com](https://favilas-portfolio.com)
+- 👨‍💻 All of my projects are available in my [portfolio](https://favilas-portfolio.com)
 
 - 💬 Ask me about **React, Django, PostgreSQL**
 
 - 📫 How to reach me **fr4v1l4@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/19agLlbjo22Dxu4_QqhE6a-AizIXCXDcI7-LkzBFBqd0/edit?usp=sharing](https://docs.google.com/document/d/19agLlbjo22Dxu4_QqhE6a-AizIXCXDcI7-LkzBFBqd0/edit?usp=sharing)
+- 📄 Take a look at my [resume](https://docs.google.com/document/d/1kwV8nKa3wLy8n841HvHoOBkamfMdNJ4-Yvsqfg9CF94/edit?usp=sharing)
 
-- ⚡ Fun fact **I thoroughly enjoy Rick and Morty and surprisingly agree with their ideals lol**
+- ⚡ Fun fact: **I really like to learn and take on new challenges!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
